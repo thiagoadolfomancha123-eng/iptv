@@ -1,0 +1,14 @@
+{
+  "appId": "com.sintonia.player",
+  "appName": "Sintonia",
+  "webDir": "www",
+  "backgroundColor": "#000000",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#000000"
+  }
+}

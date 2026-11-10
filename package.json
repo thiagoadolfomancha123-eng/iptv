@@ -1,0 +1,16 @@
+{
+  "name": "sintonia-apk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sintonia - leitor de listas IPTV (app Android via Capacitor)",
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/app": "^7.0.0",
+    "@capacitor/core": "^7.0.0",
+    "hls.js": "^1.5.8",
+    "mpegts.js": "^1.7.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0"
+  }
+}
